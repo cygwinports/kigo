@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="Games"
 SUMMARY="KDE Go game"
 DESCRIPTION="Part of the KDE games suite"
+
+REQUIRES="gnugo"
